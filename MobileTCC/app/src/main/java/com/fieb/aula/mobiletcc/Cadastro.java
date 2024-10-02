@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.fieb.aula.mobiletcc.R;
+
 public class Cadastro extends AppCompatActivity {
 
     @Override

@@ -2,6 +2,8 @@ package com.fieb.aula.mobiletcc;
 
 import android.os.StrictMode;
 
+import com.fieb.aula.mobiletcc.TesteConexaoBD;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
